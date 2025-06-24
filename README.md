@@ -37,13 +37,13 @@ The dataset consists of the following tables:
 ---
 
 ## 📁 Folder Structure
-
+'''
 Retail-SQL-Project/
 ├── Data/
 │ └── retail_sales_dataset.csv
 ├── SQL Queries/
 └── README.md
-
+'''
 
 ---
 
